@@ -23,6 +23,9 @@
 
 [**劉教練寫在運動視界的羽球教學文章（含影片）**](https://www.sportsv.net/articles/45563)
 
+[**劉教練給羽球初學者，需要注意的十件事**](https://www.sportsv.net/articles/46190)
+
+
 ## 更多資訊 
 
 劉教練的 YouTube - **羽球大叔**
