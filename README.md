@@ -6,3 +6,4 @@
 - [**羽球等級**](docs/badminton-level.md)
 - [**推球不奧塞 (outside)**](docs/push-shot-non-out.md)
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
+- [**Victor DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
