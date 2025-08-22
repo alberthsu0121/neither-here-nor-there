@@ -20,6 +20,7 @@
 ![full-turning-side-view-gravity](full-turning-side-view-gravity.png) 
 
 - **撇前腳** 助益 **全側身**
+- **撇前腳** 助益 **重心轉換**
 
 ![full-turning-front-foot](full-turning-front-foot.png)
 
