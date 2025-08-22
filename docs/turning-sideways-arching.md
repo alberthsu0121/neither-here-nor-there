@@ -15,9 +15,13 @@
 
 ![full-turning-front-view](full-turning-front-view.png) ![full-turning-side-view](full-turning-side-view.png) ![full-turning-side-view-back](full-turning-side-view-back.png) 
 
-加上 **重心轉換** 遁地砲姿勢
+- 加上 **重心轉換** 遁地砲姿勢
 
 ![full-turning-side-view-gravity](full-turning-side-view-gravity.png) 
+
+- **撇前腳** 助益 **全側身**
+
+![full-turning-front-foot](full-turning-front-foot.png)
 
 ## **頭頂區半側身 ＋ 難免弓身 + 難免後仰**
 - 需 **體能** 搭配的姿勢：**半側身**  **難免弓身** **難免後仰**
