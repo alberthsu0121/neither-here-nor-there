@@ -1,10 +1,10 @@
 # Kung-Fu 功夫
 這天打羽球摔得跟 [Kung-Fu 功夫](https://zh.wikipedia.org/wiki/%E5%8A%9F%E5%A4%AB_(%E9%81%8A%E6%88%B2))（[古早任天堂電玩](https://zh.wikipedia.org/zh-tw/%E7%BA%A2%E7%99%BD%E6%A9%9F)）被打掛的姿勢一樣 真的是醜爆了！比對一下，被ＫＯ無誤！  
 ![img-kung-fu](kung-fu-kung-fu.jpg) ![img-kung-fu-nes](kung-fu-nes.png)  
-點擊圖片觀看來源影片 8:46 秒  
-[![原始影片](https://img.youtube.com/vi/NmGmB5Tw12I/0.jpg)](https://youtu.be/NmGmB5Tw12I?t=526s)  
-差點連[十字韌帶](https://zh.wikipedia.org/zh-tw/%E5%89%8D%E5%8D%81%E5%AD%97%E9%9F%A7%E5%B8%A6)都賠進去！  
-![img-kung-fu-acl-pcl](kung-fu-acl-pcl.jpg)    
+
+差點連[十字韌帶](https://zh.wikipedia.org/zh-tw/%E5%89%8D%E5%8D%81%E5%AD%97%E9%9F%A7%E5%B8%A6)都賠進去！點擊圖片觀看來源影片 8:46 秒
+
+[![原始影片](kung-fu-acl-pcl.jpg)](https://youtu.be/NmGmB5Tw12I?t=526s)
 
 ## 心得
 
