@@ -1,4 +1,7 @@
 # neither-here-nor-there
+- [**Yonex Voltric 80 E-Tune (VT80ETN) 羽球拍**](docs/yonex.vt80etn.md)
+- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
+- [**Victor Drive DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
 - [**外丹功式放網**](docs/qigong-style-net-shot.md)
 - [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
@@ -6,5 +9,3 @@
 - [**羽球等級**](docs/badminton-level.md)
 - [**推球不奧塞 (outside)**](docs/push-shot-non-out.md)
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
-- [**Victor Drive DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
-- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
