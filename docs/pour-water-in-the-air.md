@@ -42,7 +42,7 @@
 
   * **爆發力** **乾脆** **集中** **小扇形** **空中倒水卸力** **空中殺完拍頭快速旋轉朝下** **殺完擊球面快速向慣用側** **旋轉卸力**
 
-[![**趙劍華 正手**](zhao.jianhua.forehand.png)](https://www.youtube.com/watch?v=jQPvtyq2_Jk&t=355s)
+[![**趙劍華 正手**](zhao.jianhua.forehand.png)](https://www.youtube.com/watch?v=jQPvtyq2_Jk&t=235s)
 
 - 趙劍華 **反手版本** **空扣**
 
