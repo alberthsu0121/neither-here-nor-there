@@ -1,9 +1,10 @@
 # neither-here-nor-there
-- [**Yonex Voltric 80 E-Tune (VT80ETN) 羽球拍**](docs/yonex.vt80etn.md)
-- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
+- [**Victor JS-12 II F 羽球拍**](docs/victor.js-12.ii.f.md)
 - [**Victor TKFC 小戴拍 羽球拍**](docs/victor.tkfc.md)
 - [**Victor JS-2SP 羽球拍**](docs/victor.js-2sp.md)
 - [**Victor Drive DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
+- [**Yonex Voltric 80 E-Tune (VT80ETN) 羽球拍**](docs/yonex.vt80etn.md)
+- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
 - [**空中倒水卸力 / 小扇型發力卸力**](docs/pour-water-in-the-air.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
 - [**外丹功式放網**](docs/qigong-style-net-shot.md)
