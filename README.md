@@ -1,5 +1,6 @@
 # neither-here-nor-there
 - [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](docs/crooked-weird-position-in-badminton-7.hip.flexion.md)
+- [**外丹功式放網**](docs/qigong-style-net-shot.md)
 - [**Victor JS-12 II F 羽球拍**](docs/victor.js-12.ii.f.md)
 - [**Victor TKFC 小戴拍 羽球拍**](docs/victor.tkfc.md)
 - [**Victor JS-2SP 羽球拍**](docs/victor.js-2sp.md)
@@ -8,7 +9,6 @@
 - [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
 - [**空中倒水卸力 / 小扇型發力卸力**](docs/pour-water-in-the-air.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
-- [**外丹功式放網**](docs/qigong-style-net-shot.md)
 - [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
 - [**網路羽球教練 - 劉英雄**](docs/badminton-coach-hero-liu.md)
 - [**羽球等級**](docs/badminton-level.md)
