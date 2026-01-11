@@ -1,14 +1,15 @@
 # **Dunlop Apex Pro Lite+ 綠色羽球拍**
 
-- Dunlop 拍子不是很常見，這隻是綠色 72 孔 有點偏蛋頭拍 / 小平頭拍
+- Dunlop 拍子不是很常見，這支是綠色 72孔 有點偏蛋頭拍 / 小平頭拍
 
 ![**Dunlop Apex Pro Lite+**](dunlop.apex.pro.lite.plus.jpg)
 ![**Dunlop Apex Pro Lite+ spec**](dunlop.apex.pro.lite.plus.spec.jpg)
 
 
-## **破風框 + 小平頭拍面 + 72 孔**
+## **破風框 + 小平頭拍面 + 72孔**
 
 - 上中下段都是破風框
+- 6結7直橫8直橫；上方橫線3雙+2雙線孔；上方單線區空隙較小的框型
 
 ## **重量 81g (4U)**
 

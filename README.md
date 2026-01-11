@@ -1,4 +1,5 @@
 # neither-here-nor-there
+- [**倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**阿達力 阿達利 阿搭力 當たり atari**](docs/atari.md)
 - [**甜蜜點 Sweet Spot 正中央偏上方**](docs/atari.md##%E7%94%9C%E8%9C%9C%E9%BB%9E-sweet-spot-%E6%AD%A3%E4%B8%AD%E5%A4%AE%E5%81%8F%E4%B8%8A%E6%96%B9)
 - [**推球 push 不奧塞 (outside)**](docs/push-shot-non-out.md)
@@ -9,10 +10,11 @@
 - [**Victor JS-2SP 羽球拍**](docs/victor.js-2sp.md)
 - [**Victor Drive DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
 - [**Yonex Voltric 80 E-Tune (VT80ETN) 羽球拍**](docs/yonex.vt80etn.md)
-- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
 - [**空中倒水卸力 / 小扇型發力卸力**](docs/pour-water-in-the-air.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
 - [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
 - [**網路羽球教練 - 劉英雄**](docs/badminton-coach-hero-liu.md)
 - [**羽球等級**](docs/badminton-level.md)
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
+- [**Dragonfly 藍蜻蜓 X-SUPERLIGHT 9000 霧面紅配黑 羽球拍**](docs/dragonfly.x-superlight.9000.md)
+- [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
