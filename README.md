@@ -17,5 +17,6 @@
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
 - [**Yonex Duora 7 羽球拍**](docs/yonex.duora.7.md)
 - [**Yonex Voltric 80 E-Tune (VT80ETN) 羽球拍**](docs/yonex.vt80etn.md)
+- [**LI-NING 李寧 UC8000 綠配銀 羽球拍**](docs/li-ning.uc8000.md)
 - [**Dragonfly 藍蜻蜓 X-SUPERLIGHT 9000 霧面紅配黑 羽球拍**](docs/dragonfly.x-superlight.9000.md)
 - [**Dunlop Apex Pro Lite+ 綠色羽球拍**](docs/dunlop.apex.pro.lite.plus.md)
