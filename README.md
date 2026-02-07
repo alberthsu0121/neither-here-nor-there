@@ -1,4 +1,5 @@
 # neither-here-nor-there
+- [**這顆 誰接？分析**](docs/whose-responsibility-analysis.md)
 - [**倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**阿達力 阿達利 阿搭力 當たり atari**](docs/atari.md)
 - [**甜蜜點 Sweet Spot 正中央偏上方**](docs/atari.md##%E7%94%9C%E8%9C%9C%E9%BB%9E-sweet-spot-%E6%AD%A3%E4%B8%AD%E5%A4%AE%E5%81%8F%E4%B8%8A%E6%96%B9)
