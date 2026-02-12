@@ -52,3 +52,8 @@
 工廠法預編拉線走線示範影片，來源：竹南國中 吳金源
 
 [![原始影片](https://img.youtube.com/vi/NqvmsLw5irs/0.jpg)](https://youtu.be/NqvmsLw5irs/?t=1s)
+
+## 延伸閱讀
+
+- [**線種 (strings)**](strings.md)
+- 如何快速分辨 **72孔**/**76孔** 球拍

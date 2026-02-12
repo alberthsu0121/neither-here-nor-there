@@ -1,4 +1,6 @@
 # neither-here-nor-there
+- [**線種 (strings)**](docs/strings.md)
+- [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
 - [**這顆 誰接？分析**](docs/whose-responsibility-analysis.md)
 - [**倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**阿達力 阿達利 阿搭力 當たり atari**](docs/atari.md)
@@ -12,7 +14,6 @@
 - [**Victor Drive DX-3H V 羽球拍**](docs/victor.dx-3h.v.md)
 - [**空中倒水卸力 / 小扇型發力卸力**](docs/pour-water-in-the-air.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
-- [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
 - [**網路羽球教練 - 劉英雄**](docs/badminton-coach-hero-liu.md)
 - [**羽球等級**](docs/badminton-level.md)
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
