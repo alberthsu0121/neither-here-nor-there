@@ -22,6 +22,7 @@
 下方短線端的橫線要穿4條，穿的時候我個人覺得空間很擠不順手
 
 - 所以我才決定試著學戴爸跳過一條看看，意外發現這樣做沒那麼擠，也順手好穿很多
+- 意外獲得 **分散應力集中與拍框保護** 效果 詳情參考 [Daniel羽球用品專賣店 - 小戴穿線法跳線跳第十孔的好處](https://www.facebook.com/share/p/17q3Znk7vm/)
 
 ### [**新VICTOR穿線法**](https://www.victorsport.com.tw/blog/article/11348-1)：
 
@@ -57,3 +58,4 @@
 
 - [**線種 (strings)**](strings.md)
 - 如何快速分辨 **72孔**/**76孔** 球拍
+- [Daniel羽球用品專賣店（國旅卡特約商店）](https://www.facebook.com/Daniel620505) 說到 [小戴穿線法跳線跳第十孔的好處](https://www.facebook.com/share/p/17q3Znk7vm/) **分散應力集中與拍框保護**

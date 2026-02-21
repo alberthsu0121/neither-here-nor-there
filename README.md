@@ -1,6 +1,7 @@
 # neither-here-nor-there
-- [**線種 (strings)**](docs/strings.md)
+- [**ZLX Strings 重樂線 介紹**](docs/zlx.strings.md)
 - [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
+- [**線種 (strings)**](docs/strings.md)
 - [**這顆 誰接？分析**](docs/whose-responsibility-analysis.md)
 - [**倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**阿達力 阿達利 阿搭力 當たり atari**](docs/atari.md)
