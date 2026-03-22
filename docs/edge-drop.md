@@ -65,7 +65,7 @@
 
 ![ㄥ肘](https://www.vhdissector.com/lessons/cadaver-dissection-guide/upper-extremities/movements/images/Elbow_Flexion_Extension.jpg)
 
-- **肩會展開來**（**展肩**）（**擠小天使**）  
+- **肩會展開來** **展肩** **擠小天使**
 
 - **圖看起來像旋轉大臂 實際上是展開肩膀**
 
@@ -73,9 +73,10 @@
 
 
 ## **其他 See Also**
-- **展肩** / **擠小天使** 搭配 **Edge Drop** 會 **更不容易打到額頭**
 
-![**戴資穎 擠小天使**](tai.tzu.ying.angel.png)
+- **展肩** / [**擠小天使** ANGEL](badminton-angel.md) 搭配 **Edge Drop** 會 **更不容易打到額頭**
+
+[![**戴資穎 擠小天使**](tai.tzu.ying.angel.png)](https://www.facebook.com/photo.php?fbid=2279952148718626&set=a.268575824638425&type=3) ![**Focus on shuttle head - Tai Tzu-ying**](focus.on.shuttle.head.tai.tzu.ying.jpg)
 
 - 架拍位置與 Racket Drop 方式 可參考 [Two Racquet Drop Styles](https://www.youtube.com/shorts/rIJil5iBvQI)：
     - 中手位 腰部架拍（動態框架）比較適合 **Edge Drop**；做 內旋/外旋/開合 動作的時機 跟 Open Face 不太一樣
@@ -103,3 +104,4 @@
 [![原始影片](https://img.youtube.com/vi/tzPF08fsU6U/0.jpg)](https://youtu.be/tzPF08fsU6U?t=127s)
 
 - 關節活動圖片 來自於 [www.vhdissector.com](https://www.vhdissector.com/lessons/cadaver-dissection-guide/) -> [**(Upper Extremities) Movements**](https://www.vhdissector.com/lessons/cadaver-dissection-guide/upper-extremities/movements/scapula-protraction.html)
+

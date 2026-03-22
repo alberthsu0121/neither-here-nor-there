@@ -2,6 +2,8 @@
 
 ZLX 重樂線 台灣品牌 台灣製造
 
+[![ZLX 重樂線 台灣品牌 台灣製造](zlx.strings.jpg)](https://zlxstrings.com/)
+
 ## **主打 YCY 系列**
 
 | ZLX | 打感 YCY-68 | 細彈 YCY-66 | 更細彈 YCY-63 |
