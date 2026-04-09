@@ -16,7 +16,7 @@
 - **正手：先展後圓**；**反手：先圓後展**
 - 點擊圖片觀看來源影片
 
-[![**_0809._ 反手 逆向 擠小天使**](_0809._.reverse.angel.jpg)](https://www.youtube.com/watch?v=j4kQ6Ca02VQ&t=1471s)  [![**賴育淇 反手 逆向 擠小天使**](y.c.lai.reverse.angel.jpg)](https://www.youtube.com/watch?v=PRVScfjh080&t=16s) 
+[![**_0809._ 反手 逆向 擠小天使**](_0809._.reverse.angel.jpg)](https://www.youtube.com/watch?v=j4kQ6Ca02VQ&t=1471s)  [![**賴育淇 反手 逆向 擠小天使**](y.c.lai.reverse.angel.jpg)](https://www.youtube.com/watch?v=PRVScfjh080&t=16s) [![原始影片](https://img.youtube.com/vi/hHcn1g9lQYo/0.jpg)](https://youtu.be/hHcn1g9lQYo?t=1s)
 
 # See Also
 
