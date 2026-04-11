@@ -1,6 +1,7 @@
 # neither-here-nor-there
+- [**羽球 向後飛 向前打 胸椎 前壓 肩膀 手肘 旋轉 動力鏈**](docs/step-backward-and-hitting-forward-spin-shoulder-elbow-wrist-kinetic-chain.md)
+- [**動作小 swing 大；倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**兼具球威 ＆ 姿勢好看 之 擠小天使 ANGEL**](docs/badminton-angel.md)
-- [**倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**阿達力 阿達利 阿搭力 當たり atari**](docs/atari.md)
 - [**這顆 誰接？分析**](docs/whose-responsibility-analysis.md)
 - [**甜蜜點 Sweet Spot 正中央偏上方**](docs/atari.md##%E7%94%9C%E8%9C%9C%E9%BB%9E-sweet-spot-%E6%AD%A3%E4%B8%AD%E5%A4%AE%E5%81%8F%E4%B8%8A%E6%96%B9)

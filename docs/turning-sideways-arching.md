@@ -36,4 +36,5 @@
 ## **李在福 (Lee Jae Bok) Coaching Badminton**
 顛覆傳統： 介於 **半側身** 與 **全側身** [**李在福 (Lee Jae Bok) Coaching Badminton**](https://www.google.com/search?q=coaching+badminton)
 
-
+## **其他 See Also**
+- [**羽球 向後飛 向前打 胸椎 前壓 肩膀 手肘 旋轉 動力鏈**](step-backward-and-hitting-forward-spin-shoulder-elbow-wrist-kinetic-chain.md)
