@@ -27,4 +27,8 @@
 
 - [**腿腿羽毛球 屈髖 啟動 FB**](https://www.facebook.com/reel/1161724035666328)
 - [**楊博軒 殺球 慢動作 Thread**](https://www.threads.com/@badtalk.patheric1127clown/post/DQa-l6vknaQ?xmt=AQF0X5tSMszWuPFCpNOHjv0XyGK7iF54kC59prK2wVnEvw)
+
+## See Also
 - [**羽球 向後飛 向前打 胸椎 前壓 肩膀 手肘 旋轉 動力鏈**](step-backward-and-hitting-forward-spin-shoulder-elbow-wrist-kinetic-chain.md)
+- [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](crooked-weird-position-in-badminton-7.hip.flexion.md)
+- [**Fine-tune 交換步 馬來步 遁地炮 前腳撇到後面之後才打到球**](fine-tune-slow-doctor-issue-2.md)

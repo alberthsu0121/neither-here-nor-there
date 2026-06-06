@@ -7,6 +7,10 @@
 
 ## **打到球之前 swing 中期 胸椎 前壓 帶動 動力鏈 至關重要！**
 
+- 袁正益教了一小時的一個大重點：「把胸椎挺出來」
+
+[![袁正益 把胸椎挺出來 1:00:00 秒](https://img.youtube.com/vi/cvFzsDRJEmI/0.jpg)](https://youtu.be/cvFzsDRJEmI/?t=3600s) ![袁正益 殺球](yuan.zheng-yi.smash.png)
+
 - 羽球 陳敬崴 馬來步 0:17 秒 擊球前 swing 中期 胸椎 前壓 帶動 動力鏈 至關重要！
   - **下半身是向後飛的 上半身卻要向前打球**
 
@@ -28,3 +32,4 @@
 
 - [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](crooked-weird-position-in-badminton-7.hip.flexion.md)
 - [**半側身 與 弓身**](turning-sideways-arching.md)
+- [**Fine-tune 交換步 馬來步 遁地炮 前腳撇到後面之後才打到球**](fine-tune-slow-doctor-issue-2.md)

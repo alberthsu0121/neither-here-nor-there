@@ -1,4 +1,6 @@
 # neither-here-nor-there
+- [**Fine-tune 交換步 馬來步 遁地炮 前腳撇到後面之後才打到球**](docs/fine-tune-slow-doctor-issue-2.md)
+- [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](docs/crooked-weird-position-in-badminton-7.hip.flexion.md)
 - [**羽球 向後飛 向前打 胸椎 前壓 肩膀 手肘 旋轉 動力鏈**](docs/step-backward-and-hitting-forward-spin-shoulder-elbow-wrist-kinetic-chain.md)
 - [**動作小 swing 大；倒拍關鍵 - Edge Drop**](docs/edge-drop.md)
 - [**兼具球威 ＆ 姿勢好看 之 擠小天使 ANGEL**](docs/badminton-angel.md)
@@ -6,7 +8,6 @@
 - [**這顆 誰接？分析**](docs/whose-responsibility-analysis.md)
 - [**甜蜜點 Sweet Spot 正中央偏上方**](docs/atari.md##%E7%94%9C%E8%9C%9C%E9%BB%9E-sweet-spot-%E6%AD%A3%E4%B8%AD%E5%A4%AE%E5%81%8F%E4%B8%8A%E6%96%B9)
 - [**推球 push 不奧塞 (outside)**](docs/push-shot-non-out.md)
-- [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](docs/crooked-weird-position-in-badminton-7.hip.flexion.md)
 - [**外丹功式放網**](docs/qigong-style-net-shot.md)
 - [**空中倒水卸力 / 小扇型發力卸力**](docs/pour-water-in-the-air.md)
 - [**Kung-Fu 功夫**](docs/kung-fu.md)
