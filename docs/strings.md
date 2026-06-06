@@ -49,7 +49,7 @@
 [![羽球人頻道 五包穿六支 搭配 兩線四結](5.packs.6.sets.png)](https://youtu.be/mkPMuyCOQsI?t=108s)
 
 ## 小轟 試線報告系列
-[![小轟 試線報告系列](https://img.youtube.com/vi/eWfXLD3K8eI/0.jpg)](https://youtube.com/playlist?list=PLA8FGkg1-46H_gsXK0otFAIn2qT2cylMZ&si=tBG7AEHQ_kqzjgAD)
+[![小轟 試線報告系列](https://img.youtube.com/vi/eWfXLD3K8eI/0.jpg)](https://youtube.com/playlist?list=PLA8FGkg1-46H_gsXK0otFAIn2qT2cylMZ)
 
 ## 延伸閱讀
 
