@@ -1,4 +1,5 @@
 # neither-here-nor-there
+- [**Fine-tune 踢腳殺**](docs/fine-tune-kick-smash.md)
 - [**Fine-tune 交換步 馬來步 遁地炮 前腳撇到後面之後才打到球**](docs/fine-tune-slow-doctor-issue-2.md)
 - [**歪七扭八系列（七）屈髖 hip flexion 翹屁股 修正法**](docs/crooked-weird-position-in-badminton-7.hip.flexion.md)
 - [**羽球 向後飛 向前打 胸椎 前壓 肩膀 手肘 旋轉 動力鏈**](docs/step-backward-and-hitting-forward-spin-shoulder-elbow-wrist-kinetic-chain.md)
@@ -15,9 +16,9 @@
 - [**羽球等級**](docs/badminton-level.md)
 - [**半側身 與 弓身**](docs/turning-sideways-arching.md)
 - **穿線相關**
+  - [**線種 (strings)**](docs/strings.md)
   - [**ZLX Strings 重樂線 介紹**](docs/zlx.strings.md)
   - [**一線兩結穿線法**](docs/two-knots-stringing-method.md)
-  - [**線種 (strings)**](docs/strings.md)
 - **球拍介紹**
   - [**Yonex NR-ZSP 羽球拍**](docs/yonex.nrzsp.md)
   - [**Victor TKFC 小戴拍 羽球拍**](docs/victor.tkfc.md)

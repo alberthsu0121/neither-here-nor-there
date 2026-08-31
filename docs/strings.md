@@ -46,6 +46,8 @@
 - 直線(3 包切 6 段): 5.0m 
 - 橫線(2 包切 6 段): 3.3m 
 
+Note: 直線 5.0m [需要 cover 四段橫線 (參考影片 11:14 秒)](https://youtu.be/mkPMuyCOQsI?t=674s)
+
 [![羽球人頻道 五包穿六支 搭配 兩線四結](5.packs.6.sets.png)](https://youtu.be/mkPMuyCOQsI?t=108s)
 
 ## 小轟 試線報告系列
@@ -53,5 +55,6 @@
 
 ## 延伸閱讀
 
+- [**ZLX Strings 重樂線 介紹**](zlx.strings.md)
 - [**一線兩結穿線法**](two-knots-stringing-method.md)
 - 如何快速分辨 **72孔**/**76孔** 球拍
